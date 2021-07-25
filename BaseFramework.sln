@@ -3,21 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.API", "Base.API\Base.API.csproj", "{21685671-228F-4CC3-98FB-540C38A71CB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base.API", "Base.API\Base.API.csproj", "{21685671-228F-4CC3-98FB-540C38A71CB9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{7C712954-1A32-44AF-AE5E-A3199842E5E3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{27154913-07A5-456A-B89F-51E8C148E238}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DB0C39CD-158C-4F94-A289-E10D39A5876F}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{4F1DB4A9-1A24-4618-9474-99FCFD4E95DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Application", "Base.Application\Base.Application.csproj", "{90A13BD8-C416-490D-A1CA-22E6A511FA36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base.Application", "Base.Application\Base.Application.csproj", "{90A13BD8-C416-490D-A1CA-22E6A511FA36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Domain", "Base.Domain\Base.Domain.csproj", "{81F749B3-6D4D-46A6-BE4D-7DE6326AD689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base.Domain", "Base.Domain\Base.Domain.csproj", "{81F749B3-6D4D-46A6-BE4D-7DE6326AD689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Infrastructure", "Base.Infrastructure\Base.Infrastructure.csproj", "{E868D60A-522E-494E-86BB-D87C116AD35A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base.Infrastructure", "Base.Infrastructure\Base.Infrastructure.csproj", "{E868D60A-522E-494E-86BB-D87C116AD35A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
